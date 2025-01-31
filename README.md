@@ -7,7 +7,7 @@ Data & ML Engineer | MS in Computer Software Engineering @ Northeastern Universi
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shet.sa@northeastern.edu)
 
 ## 🎓 About Me
-- 🎯 Data Engineer with 2.5+ years of experience building scalable ETL pipelines and ML systems
+- 🎯 Data Engineer with 2.5+ years of experience building scalable ETL pipelines
 - 🔭 Currently pursuing MS in Computer Software Engineering at Northeastern University
 - 💡 Passionate about building data-intensive applications and ML systems
 - 🌱 Currently focusing on Advanced Data Engineering & ML Systems
